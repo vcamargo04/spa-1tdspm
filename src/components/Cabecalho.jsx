@@ -6,6 +6,7 @@ export default function Cabecalho() {
     <>
       <header>
         <h1>Vite + React / Coded By - RM99494</h1>
+        <h2>FITA ISOLANTE</h2>
         <ul>
           <li>
             <Link to="/">HOME - <H/></Link>
